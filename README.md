@@ -2,6 +2,7 @@
 
 <br>
 Para acessar o site exemplo, use o login: gerente1 e a senha: gerente1
+<br>
 Link do site:
 http://desafioeuax.lucasrodrigues.dev.br/
 <br>
